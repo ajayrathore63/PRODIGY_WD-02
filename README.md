@@ -1,6 +1,7 @@
 # PRODIGY_WD-02 
 
 Stopwatch Web App
+
 Build a responsive Stopwatch Web Application with Start, Stop, and Reset functionalities using HTML, CSS, and JavaScript.
 
 🔧 Features:
